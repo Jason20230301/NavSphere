@@ -695,16 +695,7 @@
       "icon": "Building",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1762138395638_645ru5qnl",
-          "title": "雪球段永平",
-          "href": "https://xueqiu.com/u/1247347556",
-          "description": "",
-          "icon": "/assets/favicon_1762138354884.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "1cf1cbfa-1a31-4b39-a6ca-a05f153ccbf5",
@@ -751,6 +742,14 @@
               "href": "https://www.kancaibao.com/",
               "description": "看财报为价值投资者提供上市公司财务数据,各项基本面分析指标,同时提供DCF折现工具、杜邦分析表、历史PE（市盈率）和PB（市净率）数据、还有多家公司对比和企业估值功能",
               "icon": "/assets/favicon_1760669311999.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1762138395638_645ru5qnl",
+              "title": "雪球段永平",
+              "href": "https://xueqiu.com/u/1247347556",
+              "description": "",
+              "icon": "/assets/favicon_1762138354884.png",
               "enabled": true
             }
           ]
