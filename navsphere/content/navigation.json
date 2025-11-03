@@ -695,7 +695,16 @@
       "icon": "Building",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1762138395638_645ru5qnl",
+          "title": "雪球段永平",
+          "href": "https://xueqiu.com/u/1247347556",
+          "description": "",
+          "icon": "/assets/favicon_1762138354884.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "1cf1cbfa-1a31-4b39-a6ca-a05f153ccbf5",
