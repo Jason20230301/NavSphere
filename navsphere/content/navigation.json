@@ -1362,7 +1362,16 @@
       "icon": "Code",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1762138023522_o70tsbbmt",
+          "title": "番茄畅听下载器",
+          "href": "https://github.com/qxqycb/fanqiechangting-downloader",
+          "description": "这是一个简单易用的番茄畅听下载工具，批量下载有声书籍的音频文件。",
+          "icon": "/assets/favicon_1762137976650.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "c58e0eb7-8d56-46cc-a00e-841e07500066",
