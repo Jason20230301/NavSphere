@@ -64,7 +64,16 @@
           "icon": "Brain",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1762494977179",
+              "title": "Ollama",
+              "href": "https://ollama.com/",
+              "description": "Get up and running with large language models.",
+              "icon": "/assets/favicon_1762494981888.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
