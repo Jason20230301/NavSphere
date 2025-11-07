@@ -151,7 +151,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "79cfea9a-0085-4d15-b36d-db7a48f97de9",
+          "title": "音乐",
+          "icon": "Music",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1762494659544",
