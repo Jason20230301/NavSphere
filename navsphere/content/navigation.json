@@ -57,7 +57,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "d9c541eb-6616-40dd-a0ca-129693c80215",
+          "title": "AI工具",
+          "icon": "Brain",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1762492032111",
