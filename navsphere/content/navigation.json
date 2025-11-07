@@ -36,6 +36,14 @@
           "description": "",
           "icon": "/assets/favicon_1762487601781.ico",
           "enabled": true
+        },
+        {
+          "id": "1762488556607",
+          "title": "小红书",
+          "href": "https://www.xiaohongshu.com/",
+          "description": "",
+          "icon": "/assets/favicon_1762488561411.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
