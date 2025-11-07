@@ -49,6 +49,15 @@
       "subCategories": [],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1762491962534",
+      "title": "AI",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
