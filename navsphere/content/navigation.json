@@ -72,6 +72,14 @@
               "description": "Get up and running with large language models.",
               "icon": "/assets/favicon_1762494981888.png",
               "enabled": true
+            },
+            {
+              "id": "1762494989751",
+              "title": "LM Studio - Local LLM Running & Download Platform | Supports LLaMa, MPT, Gemma - lm-studio.me",
+              "href": "https://www.lm-studio.me/",
+              "description": "LM Studio offers fast and secure local LLM running and download services, supporting various models like LLaMa, MPT, and Gemma. Download now to experience the convenience and efficiency of offline running.",
+              "icon": "/assets/favicon_1762495005536.png",
+              "enabled": true
             }
           ]
         }
