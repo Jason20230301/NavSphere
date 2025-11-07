@@ -159,6 +159,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "30dcea7d-c318-45db-ae32-150fcd7113bb",
+          "title": "阅读",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
