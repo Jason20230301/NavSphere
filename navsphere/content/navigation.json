@@ -194,7 +194,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "ff2ea81b-75ca-4ea0-808f-ea4f17498924",
+          "title": "代理软件",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
