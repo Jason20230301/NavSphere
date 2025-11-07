@@ -80,6 +80,14 @@
               "description": "LM Studio offers fast and secure local LLM running and download services, supporting various models like LLaMa, MPT, and Gemma. Download now to experience the convenience and efficiency of offline running.",
               "icon": "/assets/favicon_1762495005536.png",
               "enabled": true
+            },
+            {
+              "id": "1762495011135",
+              "title": "Cherry-ai",
+              "href": "https://www.cherry-ai.com/",
+              "description": "访问 www.cherry-ai.com",
+              "icon": "/assets/favicon_1762495039104.png",
+              "enabled": true
             }
           ]
         }
