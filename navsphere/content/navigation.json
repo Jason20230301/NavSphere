@@ -88,6 +88,14 @@
               "description": "访问 www.cherry-ai.com",
               "icon": "/assets/favicon_1762495039104.png",
               "enabled": true
+            },
+            {
+              "id": "1762495055839",
+              "title": "Hugging Face – The AI community building the future.",
+              "href": "https://huggingface.co/",
+              "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+              "icon": "/assets/favicon_1762495090265.png",
+              "enabled": true
             }
           ]
         }
