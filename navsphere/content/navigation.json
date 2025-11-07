@@ -96,6 +96,14 @@
               "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
               "icon": "/assets/favicon_1762495090265.png",
               "enabled": true
+            },
+            {
+              "id": "1762495111330",
+              "title": "平替接入deepseek网站导航1页 - DeepSeek资料知识库",
+              "href": "https://deepseeklibrary.com/6.html",
+              "description": "平替接入deepseek网站导航1页...",
+              "icon": "/assets/favicon_1762495115572.png",
+              "enabled": true
             }
           ]
         }
