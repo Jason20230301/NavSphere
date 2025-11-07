@@ -202,6 +202,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "c6b13b2a-ac65-409e-bbda-82855514a686",
+          "title": "AI",
+          "icon": "Brain",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
