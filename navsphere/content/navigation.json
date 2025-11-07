@@ -201,7 +201,16 @@
           "icon": "Network",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762496525674_4zezal6qi",
+              "title": "勇哥侃侃侃---x-ui-yg",
+              "href": "https://github.com/yonggekkk/x-ui-yg",
+              "description": "x-ui精简修改版脚本，支持最新的Xhttp传输协议、ENC加密、MLDSA65加密，集成argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能，支持部分节点聚合订阅、sing-box订阅、clash-meta订阅的配置输出 - yonggekkk/x-ui-yg",
+              "icon": "/assets/favicon_1762496463313.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c6b13b2a-ac65-409e-bbda-82855514a686",
