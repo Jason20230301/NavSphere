@@ -123,7 +123,16 @@
           "icon": "Home",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762495801347_hyw7fhezs",
+              "title": "OKX全球领先的比特币交易平台 | 比特币行情价格 | 欧易",
+              "href": "https://www.okx.com/zh-hans",
+              "description": "欧易 - 欧易是世界领先的数字货币交易平台，你可以放心购买比特币、以太币、狗狗币、瑞波币等数字货币，也可以探索 Web3、投资 DeFi 和 NFT。立即注册，体验金融的未来。",
+              "icon": "/assets/favicon_1762495797761.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
