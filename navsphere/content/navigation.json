@@ -252,7 +252,16 @@
           "icon": "Brain",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762581381367_ba0d6a8lv",
+              "title": "DeepSeek-OCR-WebUI",
+              "href": "https://github.com/neosun100/DeepSeek-OCR-WebUI",
+              "description": "🎨 Ready-to-use DeepSeek-OCR Web UI | Modern Interface | 7 Recognition Modes | Batch Processing |   Real-time Logging | Fully Responsive - GitHub - neosun100/DeepSeek-OCR-WebUI: 🎨 Ready-to-use DeepSeek-OCR Web UI | Modern Interface | 7 Recognition Modes | Batch Processing |   Real-time Logging | Fully Responsive",
+              "icon": "/assets/favicon_1762581360255.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
