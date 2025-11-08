@@ -166,6 +166,14 @@
               "description": "访问 music.aqzscn.cn",
               "icon": "/assets/favicon_1762576701194.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762576932798_3qv6drg35",
+              "title": "Navidrome",
+              "href": "https://www.navidrome.org/",
+              "description": "Welcome to Navidrome! Learn More Download Your Personal Streaming Service\nNavidrome allows you to enjoy your music collection from anywhere, by making it available through a modern Web UI and through a wide range of third-party compatible mobile apps, for both iOS and Android devices.",
+              "icon": "/assets/favicon_1762576915262.png",
+              "enabled": true
             }
           ]
         },
