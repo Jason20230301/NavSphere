@@ -158,7 +158,16 @@
           "icon": "Music",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762576731230_rksa4544g",
+              "title": "音流",
+              "href": "https://music.aqzscn.cn/",
+              "description": "访问 music.aqzscn.cn",
+              "icon": "/assets/favicon_1762576701194.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "30dcea7d-c318-45db-ae32-150fcd7113bb",
