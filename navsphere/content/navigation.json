@@ -199,6 +199,14 @@
               "description": "Reeden 是一款功能强大的本地电子书阅读器，支持 EPUB、MOBI、PDF、TXT 等格式。提供 AI 助手、云同步、阅读统计等功能。",
               "icon": "/assets/favicon_1762577224355.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1762581489667_l983n9mof",
+              "title": "Z-Library",
+              "href": "https://zh.z-library.sk/",
+              "description": "Z-Library 是一个在线图书馆，旨在通过提供获取图书来提高全球教育水平。我们认为，在人类历史上，书籍一直是宝贵的知识来源，因此我们的目标是为有需要的人提供免费获取文学作品的机会。",
+              "icon": "/assets/favicon_1762581472961.svg",
+              "enabled": true
             }
           ]
         },
