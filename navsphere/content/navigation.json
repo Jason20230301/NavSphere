@@ -191,7 +191,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762577236967_qu5b376yt",
+              "title": "Reeden",
+              "href": "https://reeden.app/cn",
+              "description": "Reeden 是一款功能强大的本地电子书阅读器，支持 EPUB、MOBI、PDF、TXT 等格式。提供 AI 助手、云同步、阅读统计等功能。",
+              "icon": "/assets/favicon_1762577224355.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "199e3d84-b070-47df-868a-e8b6d81e63b0",
