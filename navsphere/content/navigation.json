@@ -44,6 +44,14 @@
           "description": "",
           "icon": "/assets/favicon_1762488561411.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1762730526559_eny4meotu",
+          "title": "Aliyun",
+          "href": "https://www.aliyun.com/",
+          "description": "访问 www.aliyun.com",
+          "icon": "/assets/favicon_1762730520919.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
