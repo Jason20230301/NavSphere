@@ -303,6 +303,14 @@
               "description": "Learn typed code through a programming game. Learn Python, JavaScript, and HTML as you solve puzzles and learn to make your own coding games and websites.",
               "icon": "/assets/favicon_1762683514858.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762683567637_me8e0rryh",
+              "title": "python coding challenges",
+              "href": "https://py.checkio.org/",
+              "description": "200 unique coding puzzles, 300000 python solutions. Improve your coding skills by playing games.",
+              "icon": "/assets/favicon_1762683552275.png",
+              "enabled": true
             }
           ]
         }
