@@ -272,6 +272,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1762679193496",
+      "title": "编程",
+      "icon": "Code",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
