@@ -52,6 +52,14 @@
           "description": "访问 www.aliyun.com",
           "icon": "/assets/favicon_1762730520919.png",
           "enabled": true
+        },
+        {
+          "id": "site_1762730578401_bik1p9vv8",
+          "title": "腾讯云",
+          "href": "https://cloud.tencent.com/",
+          "description": "访问 cloud.tencent.com",
+          "icon": "/assets/favicon_1762730561307.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
