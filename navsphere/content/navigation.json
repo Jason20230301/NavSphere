@@ -422,7 +422,16 @@
           "icon": "Mail",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762764517145_ivzm91fls",
+              "title": "蝉妈妈",
+              "href": "https://www.chanmama.com/",
+              "description": "蝉妈妈是短视频内容营销与直播电商洞察平台，为品牌、商家、达人、MCN机构等提供全方位电商视角，涵盖达人、商品、直播、短视频数据查询与分析。助力从业者用好内容触达亿万客户，成就好生意。做内容电商，找蝉妈妈！",
+              "icon": "/assets/favicon_1762764491407.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
