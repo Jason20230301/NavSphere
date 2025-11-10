@@ -223,6 +223,14 @@
               "description": "Z-Library 是一个在线图书馆，旨在通过提供获取图书来提高全球教育水平。我们认为，在人类历史上，书籍一直是宝贵的知识来源，因此我们的目标是为有需要的人提供免费获取文学作品的机会。",
               "icon": "/assets/favicon_1762581472961.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1762763697199_st9hwxk2n",
+              "title": "豆瓣读书",
+              "href": "https://book.douban.com/",
+              "description": "访问 book.douban.com",
+              "icon": "/assets/favicon_1762763677718.png",
+              "enabled": true
             }
           ]
         },
