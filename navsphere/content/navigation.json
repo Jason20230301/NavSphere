@@ -317,6 +317,14 @@
               "description": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） - huiyadanli/RevokeMsgPatcher",
               "icon": "https://github.githubassets.com/favicons/favicon",
               "enabled": true
+            },
+            {
+              "id": "site_1762767698223_uwf9y5v7z",
+              "title": "内网打印服务",
+              "href": "https://github.com/cp9no1/PrinterService",
+              "description": "基于@a937750307 项目lan-printing的修改. Contribute to cp9no1/PrinterService development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1762767677203.png",
+              "enabled": true
             }
           ]
         }
