@@ -339,6 +339,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1762762954545",
+      "title": "软件下载",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
