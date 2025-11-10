@@ -430,6 +430,14 @@
               "description": "蝉妈妈是短视频内容营销与直播电商洞察平台，为品牌、商家、达人、MCN机构等提供全方位电商视角，涵盖达人、商品、直播、短视频数据查询与分析。助力从业者用好内容触达亿万客户，成就好生意。做内容电商，找蝉妈妈！",
               "icon": "/assets/favicon_1762764491407.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762764564725_45fppo5ry",
+              "title": "抖查查",
+              "href": "https://www.douchacha.com",
+              "description": "访问 www.douchacha.com",
+              "icon": "/assets/favicon_1762764543916.png",
+              "enabled": true
             }
           ]
         }
