@@ -309,7 +309,16 @@
           "icon": "Settings",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762766244774_fmukdyn25",
+              "title": "微信多开工具",
+              "href": "https://github.com/huiyadanli/RevokeMsgPatcher",
+              "description": ":trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） - huiyadanli/RevokeMsgPatcher",
+              "icon": "https://github.githubassets.com/favicons/favicon",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
