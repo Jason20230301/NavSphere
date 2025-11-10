@@ -302,6 +302,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "e3f2fe7a-f503-4290-9b52-769667dd9af5",
+          "title": "工具",
+          "icon": "Settings",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
