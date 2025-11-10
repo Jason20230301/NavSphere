@@ -292,6 +292,14 @@
               "description": "🎨 Ready-to-use DeepSeek-OCR Web UI | Modern Interface | 7 Recognition Modes | Batch Processing |   Real-time Logging | Fully Responsive - GitHub - neosun100/DeepSeek-OCR-WebUI: 🎨 Ready-to-use DeepSeek-OCR Web UI | Modern Interface | 7 Recognition Modes | Batch Processing |   Real-time Logging | Fully Responsive",
               "icon": "/assets/favicon_1762581360255.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762766079918_f8hykei8e",
+              "title": "小智服务端源码",
+              "href": "https://github.com/xinnan-tech/xiaozhi-esp32-server",
+              "description": "本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server. - xinnan-tech/xiaozhi-esp32-server",
+              "icon": "/assets/favicon_1762766051762.png",
+              "enabled": true
             }
           ]
         }
