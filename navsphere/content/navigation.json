@@ -354,7 +354,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762763082045_juetzx00x",
+              "title": "原版系统盘",
+              "href": "https://next.itellyou.cn",
+              "description": "访问 next.itellyou.cn",
+              "icon": "/assets/favicon_1762763062177.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
