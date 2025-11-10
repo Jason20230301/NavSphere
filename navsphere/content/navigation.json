@@ -371,7 +371,16 @@
           "icon": "FolderOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1762763552021_3cznru2o6",
+              "title": "52破解（破解技术网站）",
+              "href": "https://www.52pojie.cn/",
+              "description": "",
+              "icon": "/assets/favicon_1762763521475.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
