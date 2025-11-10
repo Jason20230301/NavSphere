@@ -438,6 +438,14 @@
               "description": "访问 www.douchacha.com",
               "icon": "/assets/favicon_1762764543916.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762765733122_r67dxvzt7",
+              "title": "抖老板",
+              "href": "https://www.doulaoban.com",
+              "description": "访问 www.doulaoban.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.doulaoban.com",
+              "enabled": true
             }
           ]
         }
