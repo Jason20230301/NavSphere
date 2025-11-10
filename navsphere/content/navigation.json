@@ -415,6 +415,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "74dd53cf-c6e5-4614-8d95-8d2f90bd04d4",
+          "title": "营销",
+          "icon": "Mail",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
