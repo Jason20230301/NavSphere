@@ -364,6 +364,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "3688efcf-a3c8-4780-ae50-7d90babf3026",
+          "title": "软件破解",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
