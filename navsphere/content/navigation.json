@@ -325,6 +325,14 @@
               "description": "基于@a937750307 项目lan-printing的修改. Contribute to cp9no1/PrinterService development by creating an account on GitHub.",
               "icon": "/assets/favicon_1762767677203.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762823778602_m92mihhol",
+              "title": "Anki",
+              "href": "https://github.com/ankitects/anki",
+              "description": "Anki is a smart spaced repetition flashcard program - ankitects/anki",
+              "icon": "/assets/favicon_1762823763947.png",
+              "enabled": true
             }
           ]
         }
