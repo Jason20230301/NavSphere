@@ -120,6 +120,14 @@
               "description": "平替接入deepseek网站导航1页...",
               "icon": "/assets/favicon_1762495115572.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762933151983_mxxa2cv5x",
+              "title": "提示词优化器",
+              "href": "https://prompt.always200.com/",
+              "description": "",
+              "icon": "/assets/favicon_1762933144218.ico",
+              "enabled": true
             }
           ]
         }
