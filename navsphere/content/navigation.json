@@ -477,6 +477,14 @@
               "description": "Make employees, applications and networks faster and more secure everywhere, while reducing complexity and cost.",
               "icon": "/assets/favicon_1763004831103.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1763007704564_jucfyu615",
+              "title": "Godaddy",
+              "href": "https://godaddy.com",
+              "description": "访问 godaddy.com",
+              "icon": "/assets/favicon_1763007693001.png",
+              "enabled": true
             }
           ]
         }
