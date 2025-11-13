@@ -485,6 +485,14 @@
               "description": "访问 godaddy.com",
               "icon": "/assets/favicon_1763007693001.png",
               "enabled": true
+            },
+            {
+              "id": "site_1763007857668_icpqbnzeg",
+              "title": "用户中心 - 六六云",
+              "href": "https://666clouds.com",
+              "description": "",
+              "icon": "/assets/favicon_1763007846393.png",
+              "enabled": true
             }
           ]
         }
