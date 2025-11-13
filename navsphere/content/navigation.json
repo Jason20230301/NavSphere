@@ -495,6 +495,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "cd35c4c7-e143-455d-99f3-22f9e49fc169",
+          "title": "技术文章",
+          "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
