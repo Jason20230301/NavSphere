@@ -462,6 +462,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "a42a59c1-d151-45fd-bed9-2382c692fb64",
+          "title": "VPS",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
