@@ -248,7 +248,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1763899952727_mfkfvjz5v",
+              "title": "Yfvod",
+              "href": "https://www.yfvod.com/",
+              "description": "访问 www.yfvod.com",
+              "icon": "/assets/favicon_1763899939224.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
