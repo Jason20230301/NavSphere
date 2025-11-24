@@ -512,6 +512,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b357e24d-2287-417c-87ac-52355ed6ab99",
+          "title": "工具",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
