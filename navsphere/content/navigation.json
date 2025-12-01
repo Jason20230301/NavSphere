@@ -544,6 +544,14 @@
               "description": "访问 www.hostbuf.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.hostbuf.com",
               "enabled": true
+            },
+            {
+              "id": "site_1764575381009_vnhtvmown",
+              "title": "云端通讯录",
+              "href": "https://tel.getlove.cn/",
+              "description": "手机号码归属地查询",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tel.getlove.cn",
+              "enabled": true
             }
           ]
         }
