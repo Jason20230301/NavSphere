@@ -552,6 +552,14 @@
               "description": "手机号码归属地查询",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tel.getlove.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1768795374648_acp6hdt1p",
+              "title": "Cron在线表达式生成器",
+              "href": "https://cron.ciding.cc/",
+              "description": "访问 cron.ciding.cc",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cron.ciding.cc",
+              "enabled": true
             }
           ]
         }
